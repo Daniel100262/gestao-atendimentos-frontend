@@ -9,7 +9,7 @@
 docker compose up --build
 ```
 
-> A aplicação ficará acessível em: [http://localhost:5173](http://localhost:5173)
+> A aplicação ficará acessível em: [http://localhost](http://localhost)
 
 ---
 
