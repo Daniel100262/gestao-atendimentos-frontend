@@ -1,0 +1,33 @@
+.sidebar {
+  background: #f8f9fa;
+  border-right: 1px solid #dee2e6;
+  min-height: 100vh;
+  width: 260px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+
+.nav-link {
+  color: #333;
+  font-weight: 500;
+  padding: 10px 15px;
+  border-radius: 6px;
+  transition: background 0.2s;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.nav-link:hover {
+  background-color: #e9ecef;
+  text-decoration: none;
+}
+
+.nav-link.active {
+  background-color: #0d6efd;
+  color: white !important;
+}
+
+.btn-outline-danger {
+  font-weight: bold;
+}
