@@ -242,7 +242,6 @@ function PatientsPage() {
             name="rua"
             value={form.rua}
             className="form-control"
-            disabled
           />
         </div>
 
@@ -265,7 +264,6 @@ function PatientsPage() {
             name="bairro"
             value={form.bairro}
             className="form-control"
-            disabled
           />
         </div>
 
