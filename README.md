@@ -6,7 +6,7 @@
 2. Execute o comando abaixo na raiz do projeto:
 
 ```bash
-docker compose up --build
+docker compose up --build -d
 ```
 
 > A aplicação ficará acessível em: [http://localhost](http://localhost)
